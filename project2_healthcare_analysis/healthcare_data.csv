@@ -1,0 +1,201 @@
+Patient_ID,Age,Gender,Disease,Hospital_Stay_Days,Treatment_Cost,Outcome
+1,69,Male,Heart Disease,7,60393,Recovered
+2,32,Male,Hypertension,5,143013,Recovered
+3,78,Male,Asthma,12,30934,Not Recovered
+4,38,Male,Diabetes,17,159458,Recovered
+5,41,Male,Diabetes,13,197958,Recovered
+6,20,Male,Asthma,3,80745,Recovered
+7,39,Female,Diabetes,9,99456,Recovered
+8,70,Female,Asthma,17,58413,Not Recovered
+9,19,Male,Asthma,17,192872,Not Recovered
+10,47,Female,Asthma,16,102239,Not Recovered
+11,55,Female,Diabetes,13,47318,Not Recovered
+12,19,Female,Hypertension,19,75390,Recovered
+13,81,Female,Asthma,17,188401,Recovered
+14,77,Male,Heart Disease,4,48088,Not Recovered
+15,38,Female,Diabetes,12,108196,Not Recovered
+16,50,Female,Asthma,9,175883,Not Recovered
+17,75,Male,Asthma,19,60479,Recovered
+18,39,Male,Heart Disease,12,24963,Not Recovered
+19,66,Female,Hypertension,9,60123,Not Recovered
+20,76,Female,Hypertension,7,130911,Not Recovered
+21,59,Female,Hypertension,14,107468,Recovered
+22,77,Female,Asthma,19,78477,Recovered
+23,32,Female,Asthma,15,19388,Recovered
+24,79,Female,Asthma,16,10569,Recovered
+25,79,Male,Diabetes,5,74836,Recovered
+26,64,Female,Heart Disease,3,109573,Recovered
+27,79,Female,Asthma,12,172658,Recovered
+28,68,Male,Heart Disease,4,148087,Recovered
+29,72,Male,Heart Disease,16,50002,Not Recovered
+30,81,Male,Hypertension,7,142326,Not Recovered
+31,20,Male,Diabetes,13,153216,Recovered
+32,68,Female,Asthma,10,160286,Recovered
+33,24,Female,Hypertension,7,142162,Not Recovered
+34,38,Female,Hypertension,14,147709,Recovered
+35,56,Female,Asthma,5,158487,Recovered
+36,35,Female,Heart Disease,3,29071,Recovered
+37,21,Female,Hypertension,11,63243,Not Recovered
+38,77,Male,Heart Disease,11,130827,Not Recovered
+39,31,Female,Diabetes,18,113215,Not Recovered
+40,26,Male,Heart Disease,15,177312,Not Recovered
+41,70,Male,Diabetes,12,106570,Not Recovered
+42,19,Female,Heart Disease,9,169506,Recovered
+43,77,Male,Hypertension,10,74724,Not Recovered
+44,61,Female,Hypertension,12,120359,Recovered
+45,25,Male,Diabetes,17,80697,Recovered
+46,64,Female,Asthma,6,33732,Not Recovered
+47,52,Male,Diabetes,7,126465,Not Recovered
+48,53,Female,Diabetes,14,147386,Recovered
+49,67,Female,Heart Disease,13,160026,Recovered
+50,21,Female,Heart Disease,8,62108,Recovered
+51,19,Female,Diabetes,10,116195,Not Recovered
+52,23,Female,Hypertension,9,108081,Not Recovered
+53,71,Male,Heart Disease,18,41668,Not Recovered
+54,21,Male,Asthma,2,28061,Not Recovered
+55,71,Male,Heart Disease,5,84252,Not Recovered
+56,80,Female,Heart Disease,5,44749,Recovered
+57,35,Male,Asthma,6,135560,Not Recovered
+58,61,Female,Diabetes,19,109680,Recovered
+59,51,Female,Asthma,8,152979,Recovered
+60,79,Male,Diabetes,16,154849,Recovered
+61,31,Male,Diabetes,13,56745,Not Recovered
+62,65,Female,Diabetes,1,113464,Not Recovered
+63,32,Male,Asthma,17,96865,Not Recovered
+64,79,Female,Diabetes,7,117428,Recovered
+65,57,Female,Hypertension,13,28624,Recovered
+66,70,Female,Asthma,4,28321,Recovered
+67,41,Female,Hypertension,4,146560,Recovered
+68,43,Female,Diabetes,6,27574,Recovered
+69,77,Male,Heart Disease,19,141312,Recovered
+70,58,Male,Diabetes,12,179293,Not Recovered
+71,46,Female,Hypertension,7,146550,Not Recovered
+72,32,Female,Hypertension,10,191717,Not Recovered
+73,62,Male,Asthma,19,155334,Not Recovered
+74,82,Male,Heart Disease,7,123831,Recovered
+75,26,Female,Asthma,3,188868,Recovered
+76,18,Male,Hypertension,13,140504,Not Recovered
+77,25,Female,Diabetes,13,100257,Recovered
+78,80,Male,Heart Disease,18,69291,Not Recovered
+79,28,Female,Diabetes,8,195471,Not Recovered
+80,25,Male,Diabetes,9,132600,Not Recovered
+81,52,Female,Heart Disease,7,55428,Recovered
+82,52,Male,Asthma,1,136374,Not Recovered
+83,50,Male,Diabetes,3,136127,Not Recovered
+84,22,Female,Hypertension,13,116317,Not Recovered
+85,58,Male,Diabetes,17,144789,Recovered
+86,45,Female,Heart Disease,1,132449,Recovered
+87,24,Male,Heart Disease,6,33699,Not Recovered
+88,29,Female,Heart Disease,6,78686,Recovered
+89,51,Male,Asthma,12,72661,Recovered
+90,50,Female,Diabetes,13,49247,Recovered
+91,65,Male,Asthma,13,152820,Recovered
+92,40,Female,Asthma,15,110113,Recovered
+93,79,Male,Heart Disease,16,9621,Recovered
+94,54,Female,Heart Disease,11,151106,Recovered
+95,61,Female,Asthma,5,141198,Recovered
+96,52,Female,Diabetes,4,141194,Recovered
+97,82,Male,Hypertension,3,23030,Recovered
+98,64,Female,Asthma,19,87838,Not Recovered
+99,20,Male,Diabetes,18,89717,Not Recovered
+100,18,Female,Heart Disease,15,191730,Recovered
+101,22,Male,Heart Disease,9,43638,Not Recovered
+102,31,Female,Diabetes,17,72067,Not Recovered
+103,44,Male,Hypertension,14,123033,Recovered
+104,26,Male,Heart Disease,15,110977,Recovered
+105,32,Female,Heart Disease,1,93869,Recovered
+106,59,Male,Heart Disease,3,110186,Not Recovered
+107,68,Male,Diabetes,16,39674,Not Recovered
+108,80,Female,Asthma,11,171926,Recovered
+109,69,Male,Heart Disease,12,51271,Recovered
+110,21,Male,Asthma,10,78688,Recovered
+111,40,Male,Hypertension,16,174590,Not Recovered
+112,32,Female,Heart Disease,8,116076,Not Recovered
+113,60,Male,Heart Disease,6,146339,Not Recovered
+114,46,Female,Hypertension,12,6062,Not Recovered
+115,53,Male,Heart Disease,8,55448,Recovered
+116,30,Male,Asthma,4,100462,Recovered
+117,49,Male,Diabetes,8,142301,Recovered
+118,76,Female,Asthma,18,192865,Recovered
+119,45,Male,Diabetes,5,52915,Not Recovered
+120,83,Male,Diabetes,9,9632,Not Recovered
+121,59,Female,Asthma,4,109592,Recovered
+122,62,Male,Asthma,17,139668,Recovered
+123,79,Female,Asthma,9,114779,Not Recovered
+124,74,Female,Asthma,1,142240,Recovered
+125,23,Male,Hypertension,13,113099,Not Recovered
+126,45,Female,Heart Disease,16,12561,Recovered
+127,45,Male,Diabetes,13,87152,Recovered
+128,61,Female,Asthma,14,130036,Recovered
+129,47,Female,Asthma,3,129049,Recovered
+130,79,Male,Asthma,6,31734,Recovered
+131,79,Female,Hypertension,18,142443,Recovered
+132,18,Female,Asthma,19,31069,Recovered
+133,44,Female,Asthma,5,17910,Not Recovered
+134,79,Female,Asthma,15,78479,Not Recovered
+135,20,Female,Heart Disease,2,86264,Not Recovered
+136,44,Male,Hypertension,10,28275,Not Recovered
+137,26,Female,Asthma,18,77274,Not Recovered
+138,79,Male,Diabetes,13,105776,Recovered
+139,54,Female,Diabetes,5,196076,Recovered
+140,68,Male,Diabetes,1,199053,Not Recovered
+141,61,Male,Hypertension,1,190625,Recovered
+142,41,Female,Hypertension,18,53447,Not Recovered
+143,76,Female,Diabetes,15,170601,Not Recovered
+144,49,Female,Asthma,17,131394,Recovered
+145,69,Male,Hypertension,11,80703,Recovered
+146,79,Female,Diabetes,17,81090,Recovered
+147,75,Male,Diabetes,13,22260,Not Recovered
+148,69,Male,Asthma,1,117581,Recovered
+149,29,Male,Heart Disease,2,8812,Not Recovered
+150,56,Female,Hypertension,9,164096,Not Recovered
+151,19,Female,Asthma,3,194728,Not Recovered
+152,20,Male,Diabetes,1,121148,Recovered
+153,73,Male,Diabetes,16,163357,Recovered
+154,76,Female,Asthma,6,121421,Not Recovered
+155,19,Male,Hypertension,17,6605,Recovered
+156,19,Female,Heart Disease,5,77303,Recovered
+157,71,Male,Heart Disease,5,163211,Recovered
+158,18,Female,Diabetes,6,192210,Not Recovered
+159,36,Male,Hypertension,3,81125,Not Recovered
+160,19,Female,Heart Disease,5,149990,Recovered
+161,70,Male,Hypertension,5,163518,Not Recovered
+162,61,Female,Hypertension,10,129040,Recovered
+163,49,Female,Diabetes,10,149118,Recovered
+164,49,Male,Heart Disease,19,160890,Recovered
+165,72,Male,Asthma,17,9324,Recovered
+166,73,Female,Diabetes,14,81323,Not Recovered
+167,34,Male,Heart Disease,9,14111,Not Recovered
+168,55,Female,Heart Disease,14,174182,Not Recovered
+169,41,Male,Heart Disease,1,21389,Recovered
+170,28,Female,Heart Disease,19,127177,Recovered
+171,33,Female,Heart Disease,13,46427,Recovered
+172,76,Female,Hypertension,13,164818,Not Recovered
+173,20,Female,Diabetes,4,127883,Recovered
+174,37,Female,Hypertension,1,136189,Not Recovered
+175,76,Female,Asthma,17,130808,Not Recovered
+176,53,Male,Heart Disease,8,117221,Not Recovered
+177,36,Male,Diabetes,2,18234,Not Recovered
+178,84,Male,Heart Disease,8,58441,Not Recovered
+179,36,Female,Diabetes,7,5846,Not Recovered
+180,37,Female,Hypertension,2,15954,Recovered
+181,69,Female,Diabetes,3,84239,Recovered
+182,50,Female,Asthma,18,51514,Not Recovered
+183,57,Male,Asthma,12,93236,Not Recovered
+184,56,Male,Diabetes,1,102579,Recovered
+185,18,Female,Diabetes,12,142541,Not Recovered
+186,28,Male,Diabetes,5,166177,Not Recovered
+187,74,Male,Diabetes,17,47101,Recovered
+188,67,Female,Asthma,16,69323,Not Recovered
+189,40,Male,Heart Disease,15,96922,Not Recovered
+190,48,Female,Diabetes,15,194139,Not Recovered
+191,59,Male,Diabetes,5,185448,Recovered
+192,24,Female,Asthma,14,181659,Recovered
+193,33,Female,Asthma,2,173048,Recovered
+194,77,Female,Hypertension,11,132534,Not Recovered
+195,19,Female,Diabetes,19,72584,Not Recovered
+196,18,Male,Hypertension,7,109537,Recovered
+197,65,Female,Asthma,6,83477,Not Recovered
+198,29,Female,Asthma,2,47533,Not Recovered
+199,54,Female,Heart Disease,6,6828,Not Recovered
+200,49,Male,Diabetes,18,6917,Not Recovered
